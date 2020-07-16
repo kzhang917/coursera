@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+#header-nav {
+	border: 1px solid black;
+}
+#collapsable-nav {
+	border: 1px solid black;
+	background-color: white;
+	margin-top: -20px;
+}
+hr {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#main-text {
+	background-color: #D9DDDC;
+	height: 1000px;
+	padding: 10px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+h1 {
+	padding-bottom: 30px;
+}
